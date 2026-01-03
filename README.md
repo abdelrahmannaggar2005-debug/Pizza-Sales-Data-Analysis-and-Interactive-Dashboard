@@ -33,7 +33,3 @@ Key Insights
 Highest sales occur on weekends; recommend targeted promotions.
 
 Classic cheese pizza dominates; explore bundling opportunities.
-
-Live Demo
-
-Power BI Dashboard Link
