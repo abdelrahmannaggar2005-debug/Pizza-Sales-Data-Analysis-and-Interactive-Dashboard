@@ -1,14 +1,39 @@
 # Pizza-Sales-Data-Analysis-and-Interactive-Dashboard
 
-Project description.
+Overview
 
-I conducted a full data analysis of a pizzeria’s sales dataset using SQL and Excel. Key deliverables included calculating KPIs (total revenue $817,860, avg order value $38.31, 49,574 pizzas sold, 21,350 orders), identifying daily/hourly trends, sales distribution by category/size, and top/bottom 5 best-sellers. I built an interactive Excel dashboard with pivot tables, charts, and date filters for dynamic insights to support business optimization.
+This project analyzes pizza sales data to uncover trends, top products, and customer preferences using an interactive Power BI or Tableau dashboard. It processes real-world sales datasets from sources like Kaggle, focusing on revenue, order volumes, and peak times.
 
-Skills and deliverables
+Key Features
 
--Microsoft Excel
+Interactive filters for dates, locations, and product categories.
 
--SQL
+Visualizations of top-selling pizzas, monthly trends, and weekend peaks.
 
--Python
+KPIs like total revenue, average order value, and sales growth.
 
+Technologies Used
+
+Power BI/Tableau for dashboard creation.
+
+Excel/Python (Pandas) for data cleaning.
+
+DAX/SQL for advanced metrics like YoY growth.
+
+Setup Instructions
+
+Clone the repo and download data from /data/pizza_sales.csv.
+
+Open Pizza_Sales_Dashboard.pbix in Power BI Desktop.
+
+Refresh data and publish to Power BI Service for sharing.
+
+Key Insights
+
+Highest sales occur on weekends; recommend targeted promotions.
+
+Classic cheese pizza dominates; explore bundling opportunities.
+
+Live Demo
+
+Power BI Dashboard Link
