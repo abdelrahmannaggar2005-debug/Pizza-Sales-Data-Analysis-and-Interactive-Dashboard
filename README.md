@@ -157,5 +157,5 @@ This project demonstrates the following key skills:
 
 **Name:** Abdelrahman Ahmed  
 **Role:** Data Analyst  
-**LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/abdelrahman-ahmed-852b69290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]  
+**LinkedIn:** [[Abdelrahman LinkedIn URL](https://www.linkedin.com/in/abdelrahman-ahmed-852b69290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]  
 **Email:** [abdelrahman.naggar2005@gmail.com]
