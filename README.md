@@ -25,10 +25,9 @@ This structure enables KPI computation and trend analysis across multiple busine
 
 | Tool | Purpose |
 |------|---------|
-| **Power BI Desktop** | Interactive dashboard creation |
 | **Power Query Editor** | Data transformation & cleaning |
-| **DAX (Data Analysis Expressions)** | KPI measures & calculations |
-| **SQL / Python / Excel (optional)** | Data validation and preprocessing |
+| **Excel (Data Analysis Expressions)** | KPI measures & calculations |
+| **SQL / Python** | Data validation and preprocessing |
 
 ---
 
@@ -118,10 +117,7 @@ This dashboard and analytics project supports business decision-making by:
 Pizza-Sales-Data-Analysis-and-Interactive-Dashboard/
 │
 ├── data/
-│ └── pizza_sales.csv
-│
-├── power_bi/
-│ └── pizza_sales_dashboard.pbix
+│ └── pizza_sales.xlsx
 │
 ├── docs/
 │ └── SQL_Queries_and_Report.docx
@@ -157,5 +153,5 @@ This project demonstrates the following key skills:
 
 **Name:** Abdelrahman Ahmed  
 **Role:** Data Analyst  
-**LinkedIn:** [[Abdelrahman LinkedIn URL](https://www.linkedin.com/in/abdelrahman-ahmed-852b69290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]  
+**LinkedIn:** [Abdelrahman LinkedIn URL](https://www.linkedin.com/in/abdelrahman-ahmed-852b69290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 **Email:** [abdelrahman.naggar2005@gmail.com]
